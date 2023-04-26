@@ -26,7 +26,7 @@ body {
 
 .watch-face {
   aspect-ratio: 1;
-  background: url(/watchFace/resources/stars.gif);
+  background: url(https://raw.githubusercontent.com/Timberhut/WatchFace/main/stars.gif);
   background-repeat: no-repeat;
   background-size: 100%;
   /* background: var(--_bgc, #0acafa); */
